@@ -1,6 +1,6 @@
 # An example Python projet
 
-An example project that is used as a practice project for [packaging][pcking].
+An example project that is used as a practice project for learning [packaging][pcking].
 
 This project does not aim to cover best practices for Python project
 development as a whole. For example, it does not provide guidance or tool
