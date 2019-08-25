@@ -8,7 +8,7 @@ with open(os.path.join(here, 'README.md'), encoding='utf-8') as f:
 setup(
     name="Example Project",
     version="0.0.1",
-    description='A example Python project',
+    description='An example Python project',
     long_description=long_description,
     long_description_content_type='text/markdown',
     classifiers=[
