@@ -1,0 +1,6 @@
+build
+dist
+Example_Project.egg-info
+*.pyc
+**/__pycache__
+*.code-workspace
