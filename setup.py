@@ -24,5 +24,8 @@ setup(
     keywords='sample development',
     packages=find_packages(exclude='tests'),
     python_requires='>=3.6',
-    project_urls={'Funding': 'https://donate.pypi.org'},
+    project_urls={
+        'Funding': 'https://donate.pypi.org',
+        'Documentation': r'https://an-example-project.readthedocs.io/en/latest/index.html'
+    },
 )

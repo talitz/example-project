@@ -28,6 +28,7 @@ pip install example
 ##Documentation
 
 The official documentation is hosted on:
+https://an-example-project.readthedocs.io/en/latest/index.html
 
 
 ##License
