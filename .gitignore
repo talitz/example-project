@@ -1,7 +1,7 @@
-build
+build !docs/build
 dist
 Example_Project.egg-info
 *.pyc
-**/__pycache__
+__pycache__
 *.code-workspace
 settings.json
