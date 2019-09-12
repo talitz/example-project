@@ -1,4 +1,4 @@
-build !docs/build
+/build
 dist
 Example_Project.egg-info
 *.pyc
