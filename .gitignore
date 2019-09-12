@@ -5,4 +5,3 @@ Example_Project.egg-info
 **/__pycache__
 *.code-workspace
 settings.json
-example/__pycache__/example_code.cpython-37.pyc
