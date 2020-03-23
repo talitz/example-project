@@ -14,6 +14,3 @@ jobs:
       - run:
           command: |
             sudo pip install example
-      - store_artifacts: 
-          path: test-results
-          destination: tr1
