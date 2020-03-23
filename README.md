@@ -1,4 +1,4 @@
-# Example Project
+# Python Example Project - Configuring Pipeline with CircleCI
 
 ## Description
 
