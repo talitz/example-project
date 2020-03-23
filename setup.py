@@ -5,7 +5,7 @@ current_folder = os.path.abspath(os.path.dirname(__file__))
 with open(os.path.join(current_folder, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
-setup(
+setup( 
     name='Example Project',
     version='0.2.1',
     description='An example Python project',
